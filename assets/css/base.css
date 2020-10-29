@@ -1,0 +1,54 @@
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --title-color: #3d455c;
+    --text-color: #212631;
+    --border-color: #eceef2;
+    --cate-color-1: #4BB92F;
+    --cate-color-2: #ff8700;
+    --cate-color-3: #0078ff;
+    --cate-color-4: #8d00ff;
+    --primary-font: 'Dancing Script', cursive;
+    --font-default: 'Manuale', serif;
+    --rubik-font: 'Rubik', sans-serif;
+    --name-product-font: 'Arima Madurai', cursive;
+    --box-shadow-style: 0px -1px 0px 0px #eceef2 inset;
+    --background-color-1: #FFE9AF;
+    --background-color-2: #E0E0E0;
+    --background-color-3: #8DC1CF;
+    --background-color-4: #D9D9D9;
+    --background-color-5: #32353A;
+    --background-color-6: #EFEFEF;
+    --background-color-7: #F0EFED;
+    --background-color-8: #CCCCCC;
+    --background-color-9: #EDABAD;
+    --background-color-10: #95C2BD;
+    --background-color-11: #F4D5D3;
+    --background-color-12: #DEDCCD;
+    --background-social-color: #a7b3c6;
+    --width: 100%;
+}
+
+* {
+    padding: 0;
+    outline: none;
+    text-decoration: none;
+    list-style: none;
+    font-family: var(--font-default);
+    border: none;
+    margin: 0;
+    box-sizing: inherit;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: scans-serif;
+    font-size: 62.5%;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+}
