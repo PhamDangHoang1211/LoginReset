@@ -9,7 +9,7 @@
     --cate-color-3: #0078ff;
     --cate-color-4: #8d00ff;
     --primary-font: 'Dancing Script', cursive;
-    --font-default: 'Manuale', serif;
+    --font-default: 'Quicksand', sans-serif;
     --rubik-font: 'Rubik', sans-serif;
     --name-product-font: 'Arima Madurai', cursive;
     --box-shadow-style: 0px -1px 0px 0px #eceef2 inset;
@@ -46,7 +46,7 @@
 }
 
 html {
-    font-family: scans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-size: 62.5%;
     border: none;
     outline: none;
